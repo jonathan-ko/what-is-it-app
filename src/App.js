@@ -14,7 +14,7 @@ function App() {
     <div id="console"></div>
     // Add an image that we will use to test 
     <img id="img" crossorigin src="https://i.imgur.com/JlUvsxa.jpg" width="227" height="227"/>
-    //<!-- Load index.js after the content of the page -->
+    // Load index.js after the content of the page 
     <script src="index.js"></script>
   </body>
     </div>
