@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "whatisitapp01d91599": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
